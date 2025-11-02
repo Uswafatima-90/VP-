@@ -1,0 +1,9 @@
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\JHON WICK\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb

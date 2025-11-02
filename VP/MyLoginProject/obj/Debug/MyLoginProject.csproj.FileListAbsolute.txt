@@ -1,0 +1,11 @@
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\bin\Debug\MyLoginProject.exe.config
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\bin\Debug\MyLoginProject.exe
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\bin\Debug\MyLoginProject.pdb
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.csproj.AssemblyReference.cache
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.HomePage.resources
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.LoginForm.resources
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.Properties.Resources.resources
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.csproj.GenerateResource.cache
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.csproj.CoreCompileInputs.cache
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.exe
+C:\Users\JHON WICK\source\repos\MyLoginProject\MyLoginProject\obj\Debug\MyLoginProject.pdb

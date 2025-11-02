@@ -1,0 +1,9 @@
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\JHON WICK\source\repos\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb

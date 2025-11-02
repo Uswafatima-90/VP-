@@ -1,0 +1,13 @@
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\bin\Debug\SimpleCalculatorWithHistory.exe.config
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\bin\Debug\SimpleCalculatorWithHistory.exe
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\bin\Debug\SimpleCalculatorWithHistory.pdb
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.csproj.AssemblyReference.cache
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.CalculatorForm.resources
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.HistoryForm.resources
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.LoginForm.resources
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.Properties.Resources.resources
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.csproj.GenerateResource.cache
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.csproj.CoreCompileInputs.cache
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.exe
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.pdb
+C:\Users\JHON WICK\source\repos\SimpleCalculatorWithHistory\SimpleCalculatorWithHistory\obj\Debug\SimpleCalculatorWithHistory.exe.config
